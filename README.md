@@ -1,3 +1,10 @@
+# Incompleted, Draft
+
+
+
+---
+
+---
 # DevSecOps & Security Homelab
 
 > Self-hosted DevSecOps and Purple Team lab for CI/CD security, attack simulation, threat detection, and observability.
